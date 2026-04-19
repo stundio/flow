@@ -1,6 +1,6 @@
 # Flow UI Kit
 
-![Preview](./assets/flow.png)
+![Preview](./github/assets/flow.png)
 
 <p align="center">
     <a href="https://flutter.dev">
